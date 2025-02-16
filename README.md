@@ -61,3 +61,7 @@ A higher-order function in JavaScript is a function that either:
 - Returns a function as its result
 
 Higher-order functions allow for more flexible, reusable, and modular code.
+
+## Arrays
+
+### Spread operator
