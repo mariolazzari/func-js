@@ -65,3 +65,6 @@ Higher-order functions allow for more flexible, reusable, and modular code.
 ## Arrays
 
 ### Spread operator
+
+### Map function
+
