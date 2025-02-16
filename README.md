@@ -66,5 +66,8 @@ Higher-order functions allow for more flexible, reusable, and modular code.
 
 ### Spread operator
 
-### Map function
+### map
 
+### filter
+
+### every & some
