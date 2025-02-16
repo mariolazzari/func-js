@@ -80,3 +80,12 @@ Creates a copy of original array, in order to avoid mutations.
 
 ### reduce
 
+## Advanced concepts
+
+### Currying & partial
+
+### Recursion
+
+### Memoization
+
+
