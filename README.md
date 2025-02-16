@@ -75,3 +75,7 @@ Higher-order functions allow for more flexible, reusable, and modular code.
 ### slice
 
 Creates a copy of original array, in order to avoid mutations.
+
+### sort
+
+### reduce
