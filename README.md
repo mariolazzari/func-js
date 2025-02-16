@@ -43,7 +43,12 @@ npx eslint
 A first-class function is a function that is *treated like any other value* in a programming language. 
 
 This means it can be:
+
 - Assigned to a variable
 - Passed as an argument to another function
 - Returned from another function
 
+### Closures
+
+A *closure* in JavaScript is a function that remembers the variables from its lexical scope even when the function is executed outside that scope. 
+This allows functions to maintain access to their parent scope variables even after the parent function has finished execution.
