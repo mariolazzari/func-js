@@ -71,3 +71,7 @@ Higher-order functions allow for more flexible, reusable, and modular code.
 ### filter
 
 ### every & some
+
+### slice
+
+Creates a copy of original array, in order to avoid mutations.
