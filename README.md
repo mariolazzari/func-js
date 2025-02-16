@@ -52,3 +52,12 @@ This means it can be:
 
 A *closure* in JavaScript is a function that remembers the variables from its lexical scope even when the function is executed outside that scope. 
 This allows functions to maintain access to their parent scope variables even after the parent function has finished execution.
+
+### Higher order functions
+
+A higher-order function in JavaScript is a function that either:
+
+- Takes one or more functions as arguments
+- Returns a function as its result
+
+Higher-order functions allow for more flexible, reusable, and modular code.
